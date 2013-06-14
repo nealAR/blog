@@ -1,0 +1,23 @@
+{
+  "sha": "f4c8f8fbf2f225ea605bab1749204d029d9767ed",
+  "sources": {
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "apache2": {
+      "locked_version": "1.6.2"
+    },
+    "passenger_apache2": {
+      "locked_version": "2.0.0"
+    },
+    "postgresql": {
+      "locked_version": "3.0.2"
+    },
+    "apt": {
+      "locked_version": "2.0.0"
+    },
+    "openssl": {
+      "locked_version": "1.0.2"
+    }
+  }
+}
